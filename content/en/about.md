@@ -6,18 +6,21 @@ sidebar:
 ---
 #### 何夕2077 / justlovemaki
 
-My Story: Ten years of coding, fingers often chill, yet a burning passion remains unshared. But then, the AI revolution roared, and I vowed to conquer the digital skies!
+> Ten years of cold code on my fingertips, unexpressed frustrations built deep within.
+> Suddenly, I hear AI's thunderous surge, I vow to strive for a breakthrough in the digital realm.
 
-#### My Coding Philosophy 🤝
+#### My Code Philosophy
 
-Tech for the people, always!
+> Technology serves the people.
 
-#### Featured Projects 🌟
+#### 🔥 My Awesome Projects
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: An AI image generation script powered by Cloudflare Workers.
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This cool platform, powered by Cloudflare Workers, is all about content aggregation and generation. It dishes out daily AI updates, hand-picking industry news, sizzling open-source projects, groundbreaking academic papers, and even insights from tech gurus on social media!
-*   Curious for more? Head over to my [GitHub](https://github.com/justlovemaki) for all the juicy deets!
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   It's an AI image generation script based on Cloudflare Worker.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   It's a content aggregation and generation platform powered by Cloudflare Workers. It curates the latest AI developments daily for you, including industry news, hot open-source projects, cutting-edge academic papers, and tech influencer social media chatter.
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
-#### What I'm Diving Into Now 💡
+#### 🧠 What I'm Exploring Now
 
-LLM applications and website SEO: These are my current jam! I'm super keen and actively diving into learning and getting hands-on with them.
+I'm super keen on LLM applications and website SEO, and I'm diving deep into learning and practice.

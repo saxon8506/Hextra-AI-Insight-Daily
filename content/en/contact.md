@@ -6,20 +6,18 @@ sidebar:
 ---
 # Contact Me
 
-I'm super keen to hear from you! 👋 If you've got questions, collaboration ideas, or need some support, hit me up using the deets below.
-
-I promise to get back to your emails ASAP. 🚀
+**Need to get in touch?** Whether you've got questions, brilliant ideas for a collaboration, or just need some support, hit me up using the details below! I'm always thrilled to hear your thoughts and suggestions, and I promise to get back to your emails ASAP. 🚀
 
 ---
 
-## Get in Touch
+## **Contact Info**
 
 *   **Email:**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
-*   **WeChat:**
+*   **Personal WeChat:**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Let's connect!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Feel free to connect with me!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
 *   **Office Hours:**
