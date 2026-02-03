@@ -4,15 +4,17 @@ type: page
 sidebar:
   exclude: true
 ---
-# Let's Connect! 🎉
+# Get in Touch! 👋
 
-I'm always super keen to hear from you! Got questions, collaboration ideas, or need some support? Hit me up using the info below. I promise to get back to your emails ASAP.
+Your awesome ideas, burning questions, cool collaboration opportunities, or just need some help? I'm genuinely stoked to hear from you! Drop me a line using the channels below.
+
+Expect a super speedy reply from me! I promise to hit you back on emails ASAP.
 
 ---
 
-## **Get in Touch!**
+## **How to Reach Me** 💬
 
-*   **Email:**
+*   **Email:** 📧
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
 *   **WeChat:**
@@ -21,5 +23,5 @@ I'm always super keen to hear from you! Got questions, collaboration ideas, or n
         {{< /cards >}}
 
 *   **Office Hours:**
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   On weekends and public holidays, I'm usually recharging! 🔋
